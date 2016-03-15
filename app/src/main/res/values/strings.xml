@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowingMaps</string>
+    <string name="android_key">AIzaSyCiQ-1dhirQrIJwVp26DL__-5VhnVW5rOY</string>
+    <string name="autocompletehint">Place</string>
+    <string name="buttongeocoding">Click to see map</string>
+    <string name="buttonGPS">Get Location</string>
+</resources>
